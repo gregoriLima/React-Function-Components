@@ -1,7 +1,4 @@
 # Form-with-React-Function-Components
- Form Pattern using:
- 
-# Form-with-React-Function-Components
  Form Pattern to register new users.
 
 ### Implemented in ReactJS using:
