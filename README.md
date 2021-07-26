@@ -11,7 +11,7 @@
 - Material-ui
 - Good pratices
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://github.com/gregoriLima/React-Function-Components)
+[![Run on Repl.it](https://replit.com/github/gregoriLima/React-Function-Components)](https://github.com/gregoriLima/React-Function-Components)
 
 # preview:
 ![](https://github.com/gregoriLima/React-Function-Components/blob/main/preview.png)
