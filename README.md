@@ -9,6 +9,7 @@
 - useContext hook
 - useError customized hook
 - Material-ui
+- Eslint with rules of styles by Airbnb
 - Good pratices
 
 [![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://replit.com/github/gregoriLima/React-Function-Components)
