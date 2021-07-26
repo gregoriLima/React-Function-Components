@@ -11,6 +11,7 @@
 - Material-ui
 - Good pratices
 
+[![Run on Repl.it](https://repl.it/badge/github/react-function-components)](https://github.com/gregoriLima/React-Function-Components)
 
 # preview:
 ![](https://github.com/gregoriLima/React-Function-Components/blob/main/preview.png)
