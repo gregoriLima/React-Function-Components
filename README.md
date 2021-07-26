@@ -12,7 +12,7 @@
 - Eslint with rules of styles by Airbnb
 - Good pratices
 
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://replit.com/github/gregoriLima/React-Function-Components)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/grandiose-resilient-wool)
 
 # preview:
 ![](https://github.com/gregoriLima/React-Function-Components/blob/main/preview.png)
